@@ -1,0 +1,10 @@
+C:\Users\fernando.henrique\backend\WebApiCidades\bin\Debug\netcoreapp2.0\WebApiCidades.deps.json
+C:\Users\fernando.henrique\backend\WebApiCidades\bin\Debug\netcoreapp2.0\WebApiCidades.runtimeconfig.json
+C:\Users\fernando.henrique\backend\WebApiCidades\bin\Debug\netcoreapp2.0\WebApiCidades.runtimeconfig.dev.json
+C:\Users\fernando.henrique\backend\WebApiCidades\bin\Debug\netcoreapp2.0\WebApiCidades.dll
+C:\Users\fernando.henrique\backend\WebApiCidades\bin\Debug\netcoreapp2.0\WebApiCidades.pdb
+C:\Users\fernando.henrique\backend\WebApiCidades\obj\Debug\netcoreapp2.0\WebApiCidades.csproj.CoreCompileInputs.cache
+C:\Users\fernando.henrique\backend\WebApiCidades\obj\Debug\netcoreapp2.0\WebApiCidades.AssemblyInfoInputs.cache
+C:\Users\fernando.henrique\backend\WebApiCidades\obj\Debug\netcoreapp2.0\WebApiCidades.AssemblyInfo.cs
+C:\Users\fernando.henrique\backend\WebApiCidades\obj\Debug\netcoreapp2.0\WebApiCidades.dll
+C:\Users\fernando.henrique\backend\WebApiCidades\obj\Debug\netcoreapp2.0\WebApiCidades.pdb
