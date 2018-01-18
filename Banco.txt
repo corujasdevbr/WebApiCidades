@@ -1,0 +1,27 @@
+//rodar este script para a solução funcionar caso não tenha o banco criado
+
+CREATE DATABASE ProjetoCidades
+on
+(
+name='ProjetoCidades_data',
+filename='C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Data\ProjetoCidades_data.mdf',
+size=20mb,
+maxsize=100mb,
+filegrowth=10mb)
+log on
+(
+name='ProjetoCidades_log',
+filename='C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Data\ProjetoCidades_log.ldf',
+size=30mb,
+maxsize=200mb,
+filegrowth=15mb
+)
+go
+use ProjetoCidades
+go
+create table tbCidades(
+id int identity primary key,
+nome varchar(50) not null,
+estado varchar(50) not null,
+habitantes int not null
+)
