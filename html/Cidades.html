@@ -125,6 +125,10 @@
             data: JSON.stringify(cidade),
             success: function (data) {
                 $('#formulario').css('display','none');
+                $.alert({
+                            title: 'Sucesso',
+                            content: 'Dados atualizados',
+                        });
                 BuscarDados();
             },
             error: function (data) {
@@ -152,6 +156,10 @@
             data: JSON.stringify(cidade),
             success: function (data) {
                 $('#formulario').css('display','none');
+                $.alert({
+                            title: 'Sucesso',
+                            content: 'Cadastro efetuado',
+                        });
                 BuscarDados();
             },
             error: function (data) {
@@ -194,11 +202,15 @@
                     type: 'delete',
                     dataType: 'json',
                     success: function (data) {
+                        $.alert({
+                            title: 'Sucesso',
+                            content: 'Exclusão efetuada',
+                        });
                         BuscarDados();
                     },
                     error: function (data) {
                         $.alert({
-                            title: 'Alert!',
+                            title: 'Erro',
                             content: data.statusText,
                         });
                     }

@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\fernando.henrique\\backend\\WebApiCidades\\WebApiCidades.csproj",
+      "projectUniqueName": "C:\\Users\\fernando.henrique\\backend\\WebApiCidades\\WebApiCidades.csproj",
       "projectName": "WebApiCidades",
-      "projectPath": "c:\\Users\\fernando.henrique\\backend\\WebApiCidades\\WebApiCidades.csproj",
+      "projectPath": "C:\\Users\\fernando.henrique\\backend\\WebApiCidades\\WebApiCidades.csproj",
       "packagesPath": "C:\\Users\\fernando.henrique\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\fernando.henrique\\backend\\WebApiCidades\\obj\\",
+      "outputPath": "C:\\Users\\fernando.henrique\\backend\\WebApiCidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
